@@ -1,0 +1,6 @@
+{
+	"new"   : [],
+	"good"  : ["I have to back up my wife and kids.", "My kids are on drugs / sedated."],
+	"bad"   :["bad", "badbad", "badbadnotgood", "WTF"],
+	"funny" :["funny", "jk", "lol"]
+}
